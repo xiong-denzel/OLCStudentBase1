@@ -1,0 +1,7 @@
+# customer data:
+usrNme_inData = "eddiep"
+pin_inData = "1234"
+bal_inData = 1000.00
+
+print("Hello, welcome to Bank’s ATM.")
+

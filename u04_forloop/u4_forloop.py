@@ -1,3 +1,11 @@
+for i in range(11, 15+1):
+    print(i)
+
+
+
+
+
+
 # use the for loop and print out numbers from 0 to 5
 
 # use the for loop and print out numbers from 1 to 5
@@ -12,11 +20,11 @@
 # for i in range (1,6):
 #     print(i)
 
-for i in range (5,55,5):
-    print(i)
+# for i in range (5,55,5):
+#     print(i)
 
-for i in range (10,0, -1):
-    print(i)
+# for i in range (10,0, -1):
+#     print(i)
 
 
 # print("i will not be naughty anymore")

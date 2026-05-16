@@ -1,0 +1,8 @@
+song = "Ding ding, a ring a ding ding ding! \
+Budum, budum, hark the speakers swing! \
+Ding ding, a ba da ba bomo zing! \
+Budum, budum, doing our own thing! \
+Oh oh oh, budum, ding! \
+Let the crazy rhythm ring! \
+Na na na, budum, ding! \
+Everybody jump and sing!"

@@ -1,0 +1,18 @@
+# Do not change the values of these variables
+s1 = "We went to London bridge to"
+s2 = "The wheels on the tricycle go"
+w1 = "sing"
+w2 = "zing"
+n = 5
+fill = "la"
+
+# Errors from this line onwards
+last2letters = w1[:-2]
+if w2.endwith(last2letters):	 
+    s1 = s1 + " " + w1
+    s2 = s2 + " " + w1 
+    line = (fill + " ") + n 
+    line = line[:-1]
+    print(s1 + "\n" + line + "\n" + s2 + "\n" + line)
+else: 
+    print(words do not rhyme) 

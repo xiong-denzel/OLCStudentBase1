@@ -54,23 +54,23 @@
 # ** Assume that all inputs given are in lower case and valid.
 # ** the program will work for any number of students.
 
-ask1 = int(input("How many students are there in the class: ")) # ask will then contain a number
-list = []
+# ask1 = int(input("How many students are there in the class: ")) # ask will then contain a number
+# list = []
 
-for i in range(ask1):
-    sport = input("what is your favourite sport?: ")
-    list.append(sport)
-print("Information saved")
+# for i in range(ask1):
+#     sport = input("what is your favourite sport?: ")
+#     list.append(sport)
+# print("Information saved")
 
-counter = 0 
-popularity = input("Enter a sport to check the popularity: ")
-if popularity in list:
-    for sport in list:
-        if popularity == sport:
-            counter = counter + 1    
-    print(f"{popularity} is liked by {counter} student")
-else:
-    print(f"Nobody likes {popularity}")
+# counter = 0 
+# popularity = input("Enter a sport to check the popularity: ")
+# if popularity in list:
+#     for sport in list:
+#         if popularity == sport:
+#             counter = counter + 1    
+#     print(f"{popularity} is liked by {counter} student")
+# else:
+#     print(f"Nobody likes {popularity}")
 
 
 
